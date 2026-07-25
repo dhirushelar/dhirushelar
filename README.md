@@ -28,16 +28,6 @@ I am a first-year **B.E. Computer Engineering** student at the Sinhgad Institute
 
 ---
 
-## ⚡ Quick Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhirushelar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirushelar&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
-
----
-
 <h2 align="center">🤝 Let's Connect & Collaborate!</h2>
 
 <p align="center">

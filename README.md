@@ -38,8 +38,6 @@ I am a first-year **B.E. Computer Engineering** student at the Sinhgad Institute
 
 ---
 
----
-
 <h2 align="center">🤝 Let's Connect & Collaborate!</h2>
 
 <p align="center">

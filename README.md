@@ -1,400 +1,288 @@
+<!-- ========================================================= -->
+
+<!--                 DHIRAJ SHELAR — README                    -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
-# ⚡ DHIRAJ SHELAR
-
-### `Computer Engineering Student` · `AI Explorer` · `Builder` · `Founder @ SVASTIK UNIVERSE`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=4B8BBE&center=true&vCenter=true&width=850&lines=Exploring+the+Future+of+AI+%26+Software;Data+Science+%7C+Machine+Learning+%7C+LLMs;RAG+%7C+Agentic+GenAI+%7C+Python;Building+Ideas+Into+Real+Systems;Founder+%40+SVASTIK+UNIVERSE" alt="Typing Animation" />
+<a href="https://dhirajshelar.onrender.com">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=DHIRAJ%20SHELAR&fontAlign=50&fontAlignY=40&fontSize=58&fontColor=ffffff&desc=ENGINEERING%20THE%20NEXT%20EXPERIMENT&descAlign=50&descAlignY=63&descSize=18&animation=fadeIn&color=0:05070d,35:0b1626,70:163c62,100:4b8bbe" width="100%"/>
+</a>
 
 <br>
 
-<a href="https://dhirajshelar.onrender.com">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-0b0f19?style=for-the-badge&logoColor=white" />
-</a>
-<a href="mailto:dhirajshelar22@gmail.com">
-<img src="https://img.shields.io/badge/✉️%20EMAIL-0b0f19?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=1000&color=4B8BBE&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;AI+%26+Data+Science+Explorer;Python+%7C+ML+%7C+LLMs+%7C+RAG;Exploring+Agentic+GenAI;Founder+%40+SVASTIK+UNIVERSE;Learning+%E2%86%92+Building+%E2%86%92+Breaking+%E2%86%92+Improving" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Dhiraj-Shelar&style=for-the-badge&color=4b8bbe&label=PROFILE+VISITS" />
+<a href="https://dhirajshelar.onrender.com">
+<img src="https://img.shields.io/badge/PORTFOLIO-0b0f19?style=for-the-badge&logo=googlechrome&logoColor=4b8bbe"/>
+</a>
+&nbsp;
+<a href="mailto:dhirajshelar22@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-0b0f19?style=for-the-badge&logo=gmail&logoColor=4b8bbe"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Dhiraj-Shelar&style=for-the-badge&color=4b8bbe&label=VISITORS"/>
 
 </div>
-
----
-
-<div align="center">
-
-## `SYSTEM STATUS`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   👨‍💻  DHIRAJ SHELAR                                        │
-│                                                              │
-│   ROLE        → Computer Engineering Student                │
-│   CURRENT     → Exploring AI & Future Technologies          │
-│   BUILDING    → Software • AI Systems • Digital Products   │
-│   LEARNING    → Data Science • ML • LLMs • RAG              │
-│   EXPLORING   → Agentic GenAI • Intelligent Systems         │
-│   FOUNDER     → SVASTIK UNIVERSE                            │
-│                                                              │
-│   STATUS      → ████████████████████░░  ALWAYS LEARNING     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# 🧠 WHO AM I?
-
-> **I don't just want to use technology.
-> I want to understand it, build with it, and eventually shape what comes next.**
-
-I'm **Dhiraj Shelar**, a Computer Engineering student at **Sinhgad Institute of Technology, Lonavala**, currently exploring the intersection of **software engineering, artificial intelligence, data, and intelligent systems**.
-
-My journey started with web development — understanding how interfaces are structured, debugging layouts, making experiences responsive, and writing scripts to solve practical problems.
-
-Now, my curiosity is moving deeper into the stack.
-
-**Data → Intelligence → Models → Retrieval → Agents → Products**
-
-I'm currently exploring:
-
-`Python` → `Data Science` → `Machine Learning` → `LLMs` → `RAG` → `Agentic GenAI`
-
-while continuously improving my foundations in **Computer Engineering, programming, software architecture, and web technologies.**
-
----
-
-# 🧭 MY CURRENT TRAJECTORY
-
-<div align="center">
-
-```text
-                         ┌───────────────────┐
-                         │       IDEAS       │
-                         └─────────┬─────────┘
-                                   ↓
-                         ┌───────────────────┐
-                         │      PYTHON       │
-                         └─────────┬─────────┘
-                                   ↓
-                    ┌──────────────┴──────────────┐
-                    ↓                             ↓
-             ┌─────────────┐              ┌─────────────┐
-             │ DATA SCIENCE │              │   SOFTWARE  │
-             └──────┬──────┘              └──────┬──────┘
-                    ↓                             ↓
-             ┌─────────────┐              ┌─────────────┐
-             │     ML      │              │     WEB     │
-             └──────┬──────┘              └─────────────┘
-                    ↓
-             ┌─────────────┐
-             │     LLMs    │
-             └──────┬──────┘
-                    ↓
-             ┌─────────────┐
-             │     RAG     │
-             └──────┬──────┘
-                    ↓
-             ┌─────────────┐
-             │ AGENTIC AI  │
-             └──────┬──────┘
-                    ↓
-             ┌─────────────┐
-             │  PRODUCTS   │
-             └─────────────┘
-```
-
-</div>
-
----
-
-# 🤖 CURRENTLY EXPLORING
-
-<div align="center">
-
-|            🧠 Area           | 🔭 Current Direction                                  |
-| :--------------------------: | :---------------------------------------------------- |
-|         🐍 **Python**        | Automation, scripting & AI development                |
-|      📊 **Data Science**     | Data analysis, patterns & intelligent decision making |
-|    🧮 **Machine Learning**   | Understanding models & practical ML systems           |
-|          🧠 **LLMs**         | Large Language Models & AI applications               |
-|          📚 **RAG**          | Retrieval-Augmented Generation systems                |
-|     🤖 **Agentic GenAI**     | AI agents, workflows & autonomous systems             |
-|    🌐 **Web Development**    | Interfaces, responsiveness & digital experiences      |
-| 🏗️ **Software Engineering** | Architecture, debugging & system thinking             |
-
-</div>
-
----
-
-# ⚙️ TECHNOLOGY MATRIX
-
-<div align="center">
-
-### `CORE`
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js" />
-
-### `AI / DATA`
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Data%20Science-Exploring-0b0f19?style=for-the-badge&logo=python&logoColor=4B8BBE" />
-<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-0b0f19?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-<img src="https://img.shields.io/badge/RAG-Exploring-0b0f19?style=for-the-badge&logo=googledocs&logoColor=white" />
-<img src="https://img.shields.io/badge/LLMs-Exploring-0b0f19?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Agentic%20GenAI-Exploring-0b0f19?style=for-the-badge&logo=probot&logoColor=white" />
-
-### `TOOLS`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-
-</div>
-
 ---
-
-# 🧪 WHAT I BUILD
-
-```python
-class DhirajShelar:
-
-    identity = {
-        "role": "Computer Engineering Student",
-        "mindset": "Builder + Explorer",
-        "focus": [
-            "Artificial Intelligence",
-            "Data Science",
-            "Machine Learning",
-            "LLMs",
-            "RAG",
-            "Agentic GenAI"
-        ],
-        "languages": [
-            "Python",
-            "C",
-            "C++",
-            "Java",
-            "JavaScript"
-        ]
-    }
-
-    philosophy = """
-    Learn deeply.
-    Build continuously.
-    Break things.
-    Debug them.
-    Build again.
-    """
-
-    def next_step(self):
-        return "Turn knowledge into intelligent products."
-```
-
----
-
-# 🌌 FROM WEB → AI
 
 <div align="center">
 
-```text
-     WEB DEVELOPMENT
-           │
-           ▼
-     ┌─────────────┐
-     │ Programming │
-     └──────┬──────┘
-            │
-            ▼
-     ┌─────────────┐
-     │   Python    │
-     └──────┬──────┘
-            │
-            ▼
-     ┌─────────────┐
-     │     Data    │
-     └──────┬──────┘
-            │
-            ▼
-     ┌─────────────┐
-     │     ML      │
-     └──────┬──────┘
-            │
-            ▼
-     ┌─────────────┐
-     │    LLMs     │
-     └──────┬──────┘
-            │
-            ▼
-     ┌─────────────┐
-     │     RAG     │
-     └──────┬──────┘
-            │
-            ▼
-     ┌─────────────┐
-     │ AI AGENTS   │
-     └──────┬──────┘
-            │
-            ▼
-     ┌─────────────┐
-     │ REAL WORLD  │
-     │   SYSTEMS   │
-     └─────────────┘
-```
+# `01 / IDENTITY`
+
+### **I build to understand.**
+
+### **I learn to build better.**
 
 </div>
 
----
+<br>
 
-# 🚀 FOUNDER MODE
-
-<div align="center">
-
-## `SVASTIK UNIVERSE`
-
-### **Building. Learning. Experimenting. Creating.**
-
-</div>
-
-**SVASTIK UNIVERSE** is the founder-driven initiative I'm working on while exploring how technology, education, AI, and digital experiences can come together to create useful products.
-
-My goal isn't simply to build another project.
-
-It's to create an **ecosystem of ideas, experiments, products, and technology** that can evolve with time.
-
-```text
-                    SVASTIK UNIVERSE
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-          ▼                ▼                ▼
-       EDUCATION          AI            TECHNOLOGY
-          │                │                │
-          └────────────────┼────────────────┘
-                           │
-                           ▼
-                       PRODUCTS
-                           │
-                           ▼
-                      REAL IMPACT
-```
-
----
-
-# 🔬 CURRENT LAB
-
-> **Learning in public. Building in private. Shipping when ready.**
-
-### 🧠 AI
-
-Exploring how modern AI systems work beyond simply prompting models.
-
-### 📊 DATA
-
-Learning how raw data becomes useful information, patterns, predictions and decisions.
-
-### 🔗 RAG
-
-Experimenting with systems that connect LLMs with external knowledge and documents.
-
-### 🤖 AGENTS
-
-Exploring the transition from:
-
-`AI that answers`
-
-to
-
-`AI that reasons → plans → uses tools → executes`
-
-### 🐍 PYTHON
-
-Using Python as one of my primary tools for automation, data, AI and experimentation.
-
----
-
-# 💻 DEVELOPMENT FOUNDATION
-
-<div align="center">
-
-```text
-HTML ───────────────┐
-CSS ────────────────┤
-JavaScript ─────────┤
-                    ├──► DIGITAL EXPERIENCES
-Git / GitHub ───────┤
-VS Code ────────────┘
-
-
-Python ─────────────┐
-Data ───────────────┤
-ML ─────────────────┤
-LLMs ───────────────┤
-RAG ────────────────┤
-Agents ─────────────┴──► INTELLIGENT SYSTEMS
-```
-
-</div>
-
----
-
-# 🛠️ THINGS I'VE BEEN BUILDING WITH
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Web
+## 👋 Hello, I'm Dhiraj
 
-* Responsive interfaces
-* HTML / CSS / JavaScript
-* UI debugging
-* Mobile optimization
-* Interactive experiences
+I'm a **Computer Engineering student** at **Sinhgad Institute of Technology, Lonavala**, interested in the rapidly evolving intersection of:
+
+**Software × Data × Intelligence × AI**
+
+I started by exploring the visible side of technology — websites, interfaces, responsiveness, debugging and scripting.
+
+Now I'm moving deeper into the systems underneath them.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🐍 Python
+## 🧭 Where I'm heading
 
-* Automation
-* Scripting
-* Image processing
-* AI experimentation
-* Data exploration
+```text
+Software
+   ↓
+Python
+   ↓
+Data
+   ↓
+Machine Learning
+   ↓
+Large Language Models
+   ↓
+RAG Systems
+   ↓
+Agentic GenAI
+   ↓
+Intelligent Products
+```
+
+The goal isn't to collect technologies.
+
+The goal is to **understand how they connect.**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+# `02 / THE EXPLORATION`
+
+### **CURRENTLY INSIDE THE LAB**
+
+<br>
+
+<img src="https://img.shields.io/badge/🐍%20PYTHON-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/📊%20DATA%20SCIENCE-111827?style=for-the-badge&logo=databricks&logoColor=4B8BBE"/>
+<img src="https://img.shields.io/badge/🧠%20MACHINE%20LEARNING-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/🤖%20LLMs-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔎%20RAG-111827?style=for-the-badge&logo=googlesearch&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/⚡%20AGENTIC%20GENAI-111827?style=for-the-badge&logo=probot&logoColor=white"/>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="16%">
+
+### 🐍
+
+**PYTHON**
+
+Automation
+AI
+Data
+Systems
+
+</td>
+
+<td align="center" width="16%">
+
+### 📊
+
+**DATA**
+
+Patterns
+Analysis
+Insights
+Decisions
+
+</td>
+
+<td align="center" width="16%">
+
+### 🧠
+
+**ML**
+
+Models
+Training
+Prediction
+Learning
+
+</td>
+
+<td align="center" width="16%">
+
+### ◉
+
+**LLMs**
+
+Language
+Reasoning
+Generation
+Context
+
+</td>
+
+<td align="center" width="16%">
+
+### 🔗
+
+**RAG**
+
+Retrieval
+Knowledge
+Context
+Generation
+
+</td>
+
+<td align="center" width="16%">
+
+### ⚡
+
+**AGENTS**
+
+Reason
+Plan
+Tools
+Execute
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=4b8bbe" width="65%"/>
+
+<br><br>
+
+**The direction is simple:**
+
+### `FROM WRITING CODE → TO BUILDING INTELLIGENT SYSTEMS`
+
+</div>
+
+---
+
+<div align="center">
+
+# `03 / TECHNOLOGY`
+
+### **THE TOOLS I USE & EXPLORE**
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### LANGUAGES
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
+
+</td>
+
+<td align="center" width="33%">
+
+### WEB
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+</td>
+
+<td align="center" width="33%">
+
+### ENGINEERING
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 </td>
 </tr>
 
 <tr>
-<td>
+<td align="center">
 
-### 🤖 AI
+### AI / DATA
 
-* Machine Learning
-* LLM applications
-* RAG systems
-* Agentic AI
-* Generative AI
+<br>
+
+`Python` · `ML` · `Data Science`
 
 </td>
 
-<td>
+<td align="center">
 
-### 🧰 Engineering
+### GENAI
 
-* Git & GitHub
-* VS Code
-* Debugging
-* Software architecture
-* Problem solving
+<br>
+
+`LLMs` · `RAG` · `Agentic AI`
+
+</td>
+
+<td align="center">
+
+### MINDSET
+
+<br>
+
+`Build` · `Debug` · `Experiment`
 
 </td>
 </tr>
@@ -402,143 +290,521 @@ Agents ─────────────┴──► INTELLIGENT SYSTEMS
 
 ---
 
-# 📈 GITHUB ACTIVITY
+<div align="center">
+
+# `04 / THE EVOLUTION`
+
+### **FROM INTERFACES TO INTELLIGENCE**
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">
+
+### 01
+
+## 🌐 WEB
+
+HTML
+CSS
+JavaScript
+
+</td>
+
+<td align="center">
+
+### →
+
+</td>
+
+<td align="center">
+
+### 02
+
+## 🐍 PYTHON
+
+Programming
+Automation
+Scripting
+
+</td>
+
+<td align="center">
+
+### →
+
+</td>
+
+<td align="center">
+
+### 03
+
+## 📊 DATA
+
+Analysis
+Patterns
+Insights
+
+</td>
+
+</tr>
+
+<tr>
+<td align="center">
+
+### 04
+
+## 🧠 ML
+
+Learning
+Models
+Prediction
+
+</td>
+
+<td align="center">
+
+### →
+
+</td>
+
+<td align="center">
+
+### 05
+
+## 🤖 LLMs
+
+Language
+Context
+Generation
+
+</td>
+
+<td align="center">
+
+### →
+
+</td>
+
+<td align="center">
+
+### 06
+
+## ⚡ AGENTS
+
+Reason
+Plan
+Act
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhiraj-Shelar&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj-Shelar&hide_border=true&theme=transparent" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj-Shelar&layout=compact&hide_border=true&theme=transparent" />
+> **The interesting part isn't each technology individually.**
+>
+> **It's what happens when they start working together.**
 
 </div>
 
 ---
 
-# 🧬 THE BUILDER LOOP
+<div align="center">
+
+# `05 / BUILDER`
+
+### **WHAT I LIKE TO BUILD**
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🌐 Digital Experiences
+
+I enjoy working on:
+
+* Responsive interfaces
+* Frontend structures
+* UI debugging
+* Mobile optimization
+* Interactive experiences
+* Clean visual systems
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🐍 Python Experiments
+
+I'm exploring Python for:
+
+* Automation
+* Image processing
+* AI experimentation
+* Data workflows
+* Problem solving
+* Intelligent applications
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🧠 AI Systems
+
+My current exploration includes:
+
+* Machine Learning
+* Large Language Models
+* Retrieval-Augmented Generation
+* Generative AI
+* Agentic AI
+* AI-powered applications
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧪 Experiments
+
+I believe experimentation is one of the fastest ways to learn.
+
+Build something.
+
+Break something.
+
+Understand why.
+
+Fix it.
+
+Build something better.
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
+# `06 / SVASTIK UNIVERSE`
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=SVASTIK%20UNIVERSE&fontSize=42&fontColor=4B8BBE&animation=fadeIn" width="100%"/>
+
+### **FOUNDER • BUILDER • EXPLORER**
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+## 🌌 Building Beyond Projects
+
+I'm working on **SVASTIK UNIVERSE** — a founder-driven vision exploring the intersection of:
+
+**Technology**
+
+**Artificial Intelligence**
+
+**Education**
+
+**Digital Products**
+
+**Innovation**
+
+The idea is bigger than building individual projects.
+
+It's about creating an ecosystem where ideas can become experiments, experiments can become products, and products can create meaningful impact.
+
+</td>
+
+<td width="45%" valign="top">
+
+## The direction
+
 ```text
-       ┌───────────────┐
-       │    LEARN      │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │   EXPERIMENT  │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │     BUILD     │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │     BREAK     │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │     DEBUG     │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │    IMPROVE    │
-       └───────┬───────┘
+             IDEAS
                │
-               └───────────────↺
+               ▼
+          EXPERIMENTS
+               │
+               ▼
+            SYSTEMS
+               │
+               ▼
+           PRODUCTS
+               │
+               ▼
+            IMPACT
 ```
-
-</div>
-
----
-
-# 🎯 WHAT I'M WORKING TOWARD
-
-```text
-NOW
- │
- ├── Strengthen Computer Engineering fundamentals
- ├── Improve Python
- ├── Explore Data Science
- ├── Learn Machine Learning
- ├── Understand LLM systems
- ├── Build RAG applications
- └── Explore Agentic GenAI
-        │
-        ▼
-NEXT
- │
- ├── Build more intelligent systems
- ├── Combine AI + software engineering
- ├── Turn experiments into products
- └── Grow SVASTIK UNIVERSE
-        │
-        ▼
-FUTURE
- │
- └── Build technology that actually matters.
-```
-
----
-
-# 💭 MY ENGINEERING PHILOSOPHY
-
-<div align="center">
-
-### **Don't chase every technology.**
-
-### **Understand the technology that can solve the problem.**
 
 <br>
 
-**Learn → Build → Fail → Debug → Understand → Improve → Repeat**
+**SVASTIK UNIVERSE**
+
+`Imagine → Build → Test → Evolve`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### `Founder @ SVASTIK UNIVERSE`
+
+**Currently building the foundation.**
 
 </div>
 
 ---
 
-# 🌐 CONNECT WITH ME
+<div align="center">
+
+# `07 / ENGINEERING MINDSET`
+
+### **I DON'T WANT TO JUST KNOW HOW.**
+
+### **I WANT TO KNOW WHY.**
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="20%">
+
+### 🔍
+
+**QUESTION**
+
+Why does it work?
+
+</td>
+
+<td align="center" width="20%">
+
+### 🧪
+
+**EXPERIMENT**
+
+What happens if...?
+
+</td>
+
+<td align="center" width="20%">
+
+### 💥
+
+**BREAK**
+
+Find the limits.
+
+</td>
+
+<td align="center" width="20%">
+
+### 🛠️
+
+**DEBUG**
+
+Understand the failure.
+
+</td>
+
+<td align="center" width="20%">
+
+### 🚀
+
+**BUILD**
+
+Make it better.
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
+
+```text
+ curiosity
+     ↓
+ learning
+     ↓
+ experimentation
+     ↓
+ failure
+     ↓
+ understanding
+     ↓
+ engineering
+     ↓
+ creation
+```
+
+</div>
+
+---
+
+<div align="center">
+
+# `08 / GITHUB`
+
+### **THE WORKBENCH**
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj-Shelar&bg_color=0b0f19&color=4b8bbe&line=4b8bbe&point=ffe873&area=true&hide_border=true" width="95%"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhiraj-Shelar&theme=github_dark" width="95%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Dhiraj-Shelar?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-0b0f19?style=for-the-badge&logo=github&logoColor=4b8bbe"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# `09 / NOW`
+
+### **WHAT I'M FOCUSING ON**
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+## 🐍
+
+### PYTHON
+
+Deepening fundamentals and using Python as a foundation for AI, data and automation.
+
+</td>
+
+<td align="center" width="25%">
+
+## 📊
+
+### DATA SCIENCE
+
+Learning how to extract useful information from data and turn it into decisions.
+
+</td>
+
+<td align="center" width="25%">
+
+## 🧠
+
+### AI / ML
+
+Understanding the systems behind modern intelligent applications.
+
+</td>
+
+<td align="center" width="25%">
+
+## ⚡
+
+### AGENTIC AI
+
+Exploring AI systems that can reason, use tools, plan and execute.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# `10 / THE NEXT CHAPTER`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=FFE873&center=true&vCenter=true&width=850&lines=Build+better+systems.;Understand+AI+deeper.;Turn+experiments+into+products.;Grow+SVASTIK+UNIVERSE.;Keep+going." />
+
+<br><br>
+
+### **The destination isn't fixed.**
+
+### **The direction is.**
+
+</div>
+
+---
+
+<div align="center">
+
+# `11 / LET'S CONNECT`
+
+<br>
+
+I'm always interested in conversations around:
+
+`AI` · `Machine Learning` · `Data Science` · `LLMs` · `RAG` · `Agentic AI` · `Software` · `Startups` · `Interesting Ideas`
+
+<br><br>
 
 <a href="https://dhirajshelar.onrender.com">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-4B8BBE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-4B8BBE?style=for-the-badge&logoColor=white"/>
 </a>
+
+ 
 
 <a href="mailto:dhirajshelar22@gmail.com">
-<img src="https://img.shields.io/badge/📧%20EMAIL-3776AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/✉️%20DHIRAJSHELAR22%40GMAIL.COM-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<!-- Add your LinkedIn once you have your profile URL -->
-
 </div>
 
 <br>
-
-<div align="center">
-
-### 💬 Open to
-
-`AI` · `Machine Learning` · `Data Science` · `RAG` · `LLMs` · `Agentic AI` · `Web Development` · `Interesting Ideas`
-
-<br>
-
-**If you're building something interesting, let's talk.**
-
-</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:4b8bbe,100:ffe873&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:4b8bbe,45:163c62,75:0b1626,100:05070d&animation=fadeIn" width="100%"/>
 
-### `© 2026 Dhiraj Shelar`
+### `DHIRAJ SHELAR`
 
-**Engineering the future, one experiment at a time. ⚡**
+**Computer Engineering • AI • Future Tech • SVASTIK UNIVERSE**
+
+<br>
+
+`Learn → Build → Experiment → Evolve`
 
 </div>

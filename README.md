@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://dhirajshelar.onrender.com">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=DHIRAJ%20SHELAR&fontAlign=50&fontAlignY=38&fontSize=58&fontColor=ffffff&desc=ENGINEERING%20THE%20FUTURE%20WITH%20AI%20%26%20IDEAS&descAlign=50&descAlignY=61&descSize=17&animation=fadeIn&color=0:03050a,35:08111e,70:163d62,100:4b8bbe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;text=DHIRAJ%20SHELAR&amp;fontAlign=50&amp;fontAlignY=38&amp;fontSize=58&amp;fontColor=ffffff&amp;desc=ENGINEERING%20THE%20FUTURE%20WITH%20AI%20%26%20IDEAS&amp;descAlign=50&amp;descAlignY=61&amp;descSize=17&amp;animation=fadeIn&amp;color=4b8bbe" width="100%"/>
 </a>
 
 <br>
